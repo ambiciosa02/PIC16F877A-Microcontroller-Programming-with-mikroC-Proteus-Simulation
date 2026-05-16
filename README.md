@@ -42,7 +42,7 @@ The project is divided into four main parts:
 
 <img width="294" height="158" alt="image" src="https://github.com/user-attachments/assets/7d79926e-7004-4a21-ba8b-37e1cb262fb0" />
 
- \n
+ 
 
 ### 🔷 Part B – Simulation with Proteus
 - Created a new Proteus project including:
@@ -65,7 +65,7 @@ The project is divided into four main parts:
 
 <img width="296" height="227" alt="image" src="https://github.com/user-attachments/assets/8add3f13-c3e9-4415-a2d1-5f7344d9ce31" />
 
-\n
+
 
 <img width="301" height="123" alt="image" src="https://github.com/user-attachments/assets/2e4481a1-15ff-460a-87e1-ea3bfa248387" />
 
@@ -81,7 +81,7 @@ The project is divided into four main parts:
 
 <img width="312" height="383" alt="image" src="https://github.com/user-attachments/assets/41e7257d-357e-42fa-b30e-d5d5834ca28a" />
 
-\n
+
 
 
 <img width="286" height="245" alt="image" src="https://github.com/user-attachments/assets/a3a4520a-aa4f-4c93-b67b-79cc30d13344" />
@@ -96,7 +96,7 @@ The project is divided into four main parts:
 <img width="304" height="328" alt="image" src="https://github.com/user-attachments/assets/f740ac6e-be7d-4978-9130-8288fdb13ab1" />
 
 
-\n
+
 
 
 <img width="298" height="220" alt="image" src="https://github.com/user-attachments/assets/9b3d389e-6253-40a9-bc39-b833291f64c1" />
