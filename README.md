@@ -1,7 +1,7 @@
 # PIC16F877A-Microcontroller-Programming-with-mikroC-Proteus-Simulation
 
-```markdown
-# 🖥️ TP3: PIC16F877A Microcontroller Programming with mikroC & Proteus Simulation
+
+# 🖥️ PIC16F877A Microcontroller Programming with mikroC & Proteus Simulation
 
 ## 📌 Project Title
 **Initiation to PIC16F877A Microcontroller Programming using mikroC and Simulation under Proteus**
